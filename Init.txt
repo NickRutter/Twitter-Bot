@@ -1,0 +1,19 @@
+------------------------------------------------------Install node-------------------------------------------------------
+
+https://nodejs.org/en/
+
+----------------------------------------------------------Atom------------------------------------------------------------
+
+To Access the twitter bot to change the replies and acount information you will need to have a text editer. I prefer to
+use Atom https://atom.io/ but other programs such as https://www.sublimetext.com/ will work
+
+---------------------------------------------------------In CMD-----------------------------------------------------------
+					
+Type "npm init"
+
+Type "npm install --save twit"
+
+To use, you must be in in the directory that the files(bot.js and Config.js) are saved in. (Use cd [Directory]). Then type
+node bot.js to use the bot
+
+To tweet at the bot you will need to @[your twitter acount]  [msg]
