@@ -18,7 +18,7 @@ var replyto = tweet.in_reply_to_screen_name;
 var text = tweet.text;
 var from = tweet.user.screen_name;
 
-if (replyto == 'AMagical8Ball')
+if (replyto == '[Your Twitter Handle]')
 {
   var newtweet = '@' + from + 'hey';
   tweetIt(newtweet);
