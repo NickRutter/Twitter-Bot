@@ -17,3 +17,7 @@ To use, you must be in in the directory that the files(bot.js and Config.js) are
 node bot.js to use the bot
 
 To tweet at the bot you will need to @[your twitter acount]  [msg]
+
+--------------------------------------------------------Twitter Apps------------------------------------------------------
+
+https://apps.twitter.com/ in order to access your consumer and secret keys to access the Twitter interface 
