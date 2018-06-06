@@ -2,10 +2,6 @@
 
 https://nodejs.org/en/
 
-------------------------------------------------------Installing NPM------------------------------------------------------
-
-https://www.npmjs.com/
-
 ----------------------------------------------------------Atom------------------------------------------------------------
 
 To Access the twitter bot to change the replies and acount information you will need to have a text editer. I prefer to
